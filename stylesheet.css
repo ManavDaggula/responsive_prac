@@ -26,6 +26,7 @@ h1{
     grid-template-columns: auto auto;
     width: 100%;
     justify-items: center;
+    margin-bottom: 10px;
 }
 .content p{
     border-bottom: 2px solid hsl(191, 85%, 53%);
